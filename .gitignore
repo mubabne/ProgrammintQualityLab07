@@ -3,4 +3,6 @@
 node_modules/
 app.js
 session-tools/
+screenshots/*.png
+!screenshots/bug-*.png
 
